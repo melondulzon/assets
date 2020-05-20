@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      
+      "id": "transition-risk",
+      "title": "COVID-19 Spain",
+      "alignRight": false,
+      "authors": [ "Xavier Bolló"],
+      "bg": "transition-risks",
+      "data": false,
+      "description": "Entendiendo el Coronavirus mediante la visualización de datos",
+      "downloadIDs": [ 4 ],
+      "keywords": "",
+      "link": "/explora",
+      "mainTopic": "Risks",
+      "path": "explora",
+      "portal": "Finance",
+      "portalNum": 1,
+      "sources": [
+        [
+          "Datadista",
+          "http://datadista.com"
+        ],
+        [
+          "Ministerio de Sanidad",
+          "https://www.mscbs.gob.es/"
+        ]
+      ],
+      "subtitle": "Learn module",
+      "tags": [ "Finance" ],
+      "type": [ "Learn" ]
+    }
+  ]
+}
